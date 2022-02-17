@@ -57480,7 +57480,7 @@ rules:
   - IP-CIDR,218.247.96.0/19,🌏 国内媒体
   - DOMAIN-SUFFIX,jurjgajux.xyz,🛑 全球拦截
   - DOMAIN-SUFFIX,ads-twitter.com,🛑 全球拦截
-  - IP-CIDR6,2001:b28:f23f::/48,📲 Telegram
+  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息
   - IP-CIDR,163.142.0.0/16,🌏 国内媒体
   - IP-CIDR,39.0.0.0/24,🌏 国内媒体
   - DOMAIN-SUFFIX,pinballpublishernetwork.com,🛑 全球拦截
@@ -61748,7 +61748,7 @@ rules:
   - DOMAIN-SUFFIX,stats.paysagistes.pro,🛑 全球拦截
   - DOMAIN-SUFFIX,tw5k2vc.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,a8cv.housingbazar.jp,🛑 全球拦截
-  - DOMAIN-SUFFIX,telesco.pe,📲 Telegram
+  - DOMAIN-SUFFIX,telesco.pe,📲 电报信息
   - DOMAIN-SUFFIX,chushigangdrug.ch,🔰 节点选择
   - DOMAIN-SUFFIX,google.je,🔰 节点选择
   - DOMAIN-SUFFIX,dpisjtoqmbtuu.xyz,🛑 全球拦截
@@ -66720,7 +66720,7 @@ rules:
   - DOMAIN-SUFFIX,mlcool.com,🔰 节点选择
   - IP-CIDR,121.52.160.0/19,🌏 国内媒体
   - DOMAIN-SUFFIX,shopee.tw,🔰 节点选择
-  - IP-CIDR,91.108.0.0/16,📲 Telegram
+  - IP-CIDR,91.108.0.0/16,📲 电报信息
   - DOMAIN-SUFFIX,huaxiaozhang.club,🛑 全球拦截
   - DOMAIN-SUFFIX,shuccn.com,🛑 全球拦截
   - DOMAIN-SUFFIX,prowlenchant.com,🛑 全球拦截
@@ -67352,7 +67352,7 @@ rules:
   - DOMAIN-SUFFIX,dynu.net,🔰 节点选择
   - DOMAIN-SUFFIX,k.veepee.fr,🛑 全球拦截
   - DOMAIN-SUFFIX,uk,🔰 节点选择
-  - DOMAIN-SUFFIX,telegram.org,📲 Telegram
+  - DOMAIN-SUFFIX,telegram.org,📲 电报信息
   - DOMAIN-SUFFIX,toolbar.baidu.com,🛑 全球拦截
   - DOMAIN-SUFFIX,links.email.nbc.com,🛑 全球拦截
   - DOMAIN-SUFFIX,samvinva.info,🛑 全球拦截
@@ -68432,7 +68432,7 @@ rules:
   - DOMAIN-SUFFIX,dafahao.com,🔰 节点选择
   - DOMAIN-SUFFIX,tjupt.org,🎯 全球直连
   - DOMAIN-SUFFIX,shouyouyou.com,🛑 全球拦截
-  - IP-CIDR,149.154.160.0/20,📲 Telegram
+  - IP-CIDR,149.154.160.0/20,📲 电报信息
   - DOMAIN-SUFFIX,victorjx.com,🛑 全球拦截
   - IP-CIDR,36.0.0.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,dm1.zjydt.com,🛑 全球拦截
@@ -77218,7 +77218,7 @@ rules:
   - DOMAIN-SUFFIX,dfgchcnqsa.com,🛑 全球拦截
   - DOMAIN-SUFFIX,feelinginspectorathlete.com,🛑 全球拦截
   - DOMAIN-SUFFIX,rta2.inews.co.uk,🛑 全球拦截
-  - IP-CIDR,109.239.140.0/24,📲 Telegram
+  - IP-CIDR,109.239.140.0/24,📲 电报信息
   - IP-CIDR,202.165.243.0/24,🌏 国内媒体
   - DOMAIN-SUFFIX,tebo0o2xw4.com,🛑 全球拦截
   - DOMAIN-SUFFIX,imageter.com,🛑 全球拦截
@@ -79424,7 +79424,7 @@ rules:
   - DOMAIN-SUFFIX,response.pure360.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ryvapi.fragrancenet.com,🛑 全球拦截
   - DOMAIN-SUFFIX,adm.zookingsoft.com,🛑 全球拦截
-  - IP-CIDR6,2001:b28:f23d::/48,📲 Telegram
+  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息
   - DOMAIN-SUFFIX,choconart.com,🛑 全球拦截
   - DOMAIN-SUFFIX,infos.yellow.com.au,🛑 全球拦截
   - DOMAIN-SUFFIX,moronsquacco.com,🛑 全球拦截
@@ -80411,7 +80411,7 @@ rules:
   - DOMAIN-SUFFIX,p1.chinakaoyan.com,🛑 全球拦截
   - IP-CIDR,121.59.124.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,internetfreedom.org,🔰 节点选择
-  - DOMAIN-SUFFIX,telegram.me,📲 Telegram
+  - DOMAIN-SUFFIX,telegram.me,📲 电报信息
   - DOMAIN-SUFFIX,a8cv.p-antiaging.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ymcdn.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,gokbayrak.com,🔰 节点选择
@@ -86608,7 +86608,7 @@ rules:
   - DOMAIN-SUFFIX,baaomenaltho.com,🛑 全球拦截
   - DOMAIN-SUFFIX,gartlive.com,🔰 节点选择
   - IP-CIDR,163.197.167.236/32,🛑 全球拦截
-  - IP-CIDR6,2001:67c:4e8::/48,📲 Telegram
+  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息
   - DOMAIN-SUFFIX,fnac.com,🔰 节点选择
   - DOMAIN-SUFFIX,duxumpou.com,🛑 全球拦截
   - DOMAIN-SUFFIX,clarium.global.ssl.fastly.net,🛑 全球拦截
@@ -88278,7 +88278,7 @@ rules:
   - DOMAIN-SUFFIX,significantlyentering.com,🛑 全球拦截
   - DOMAIN-SUFFIX,latibet.org,🔰 节点选择
   - DOMAIN-SUFFIX,vkuay.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,telegra.ph,📲 Telegram
+  - DOMAIN-SUFFIX,telegra.ph,📲 电报信息
   - DOMAIN-SUFFIX,mediaclick.com,🛑 全球拦截
   - DOMAIN-SUFFIX,clupc.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ohfaeojqwiam.top,🛑 全球拦截
@@ -91981,7 +91981,7 @@ rules:
   - DOMAIN-SUFFIX,madspmz.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hackesie.net,🛑 全球拦截
   - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
-  - DOMAIN-SUFFIX,t.me,📲 Telegram
+  - DOMAIN-SUFFIX,t.me,📲 电报信息
   - DOMAIN-SUFFIX,haractice.club,🛑 全球拦截
   - DOMAIN-SUFFIX,deadpantruck.com,🛑 全球拦截
   - IP-CIDR,103.152.76.0/23,🌏 国内媒体
@@ -104962,7 +104962,7 @@ rules:
   - DOMAIN-SUFFIX,brands.lookfantastic.com,🛑 全球拦截
   - IP-CIDR,59.153.32.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,betshucklean.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,tdesktop.com,📲 Telegram
+  - DOMAIN-SUFFIX,tdesktop.com,📲 电报信息
   - DOMAIN-SUFFIX,marketing.visitphoenix.com,🛑 全球拦截
   - DOMAIN-SUFFIX,iyodoctor.com,🛑 全球拦截
   - DOMAIN-SUFFIX,xhwfua.paiza.jp,🛑 全球拦截
