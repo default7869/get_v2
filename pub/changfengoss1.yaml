@@ -59307,7 +59307,7 @@ rules:
   - DOMAIN-SUFFIX,dodolive.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,ensnia.com,🛑 全球拦截
   - IP-CIDR,103.22.100.0/22,🌏 国内媒体
-  - DOMAIN,steamuserimages-a.akamaihd.net,🎮 国际游戏
+  - DOMAIN,steamuserimages-a.akamaihd.net,🌍 国外媒体
   - DOMAIN-SUFFIX,maniash.com,🔰 节点选择
   - IP-CIDR,114.119.0.0/17,🌏 国内媒体
   - DOMAIN-SUFFIX,cnlongshou.com,🛑 全球拦截
@@ -59400,7 +59400,7 @@ rules:
   - DOMAIN-SUFFIX,hebkb.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,saa.sportsline.com,🛑 全球拦截
   - IP-CIDR,140.179.0.0/16,🌏 国内媒体
-  - DOMAIN-SUFFIX,livefilestore.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,livefilestore.com,🌍 国外媒体
   - DOMAIN-SUFFIX,boxin1688.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,jn1biifafz.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,tzlit.cn,🛑 全球拦截
@@ -60775,7 +60775,7 @@ rules:
   - DOMAIN-SUFFIX,smetrics.greatsouthernbank.com.au,🛑 全球拦截
   - DOMAIN-SUFFIX,dm1.guanwawa.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hbzhurong.cn,🛑 全球拦截
-  - DOMAIN,steamstore-a.akamaihd.net,🎮 国际游戏
+  - DOMAIN,steamstore-a.akamaihd.net,🌍 国外媒体
   - DOMAIN-SUFFIX,tr.marsflag.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sp.naplesnews.com,🛑 全球拦截
   - DOMAIN-SUFFIX,smetrics.cloudera.com,🛑 全球拦截
@@ -60987,7 +60987,7 @@ rules:
   - DOMAIN-SUFFIX,bangbang521.com,🛑 全球拦截
   - DOMAIN-SUFFIX,marketing.rsvpportal.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hongdianshijue.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🌍 国外媒体
   - DOMAIN-SUFFIX,delightful-development.ml,🛑 全球拦截
   - DOMAIN-SUFFIX,sstats.meijer.com,🛑 全球拦截
   - DOMAIN-SUFFIX,wttd.douglas.nl,🛑 全球拦截
@@ -61361,7 +61361,7 @@ rules:
   - DOMAIN-SUFFIX,wzsygdl.com,🛑 全球拦截
   - DOMAIN-SUFFIX,actoramusement.com,🛑 全球拦截
   - DOMAIN-SUFFIX,a8clk.teacon.jp,🛑 全球拦截
-  - DOMAIN-SUFFIX,steamgames.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,steamgames.com,🌍 国外媒体
   - DOMAIN-SUFFIX,adultadvertising.net,🛑 全球拦截
   - DOMAIN-SUFFIX,padskis.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tracking.sp.sofi.com,🛑 全球拦截
@@ -62250,7 +62250,7 @@ rules:
   - DOMAIN-SUFFIX,8gzijqo4c85j.com,🛑 全球拦截
   - IP-CIDR,103.96.192.0/20,🌏 国内媒体
   - DOMAIN-SUFFIX,gaycloud.cn,🛑 全球拦截
-  - DOMAIN,steamcommunity-a.akamaihd.net,🎮 国际游戏
+  - DOMAIN,steamcommunity-a.akamaihd.net,🌍 国外媒体
   - IP-CIDR,45.251.120.0/21,🌏 国内媒体
   - DOMAIN-SUFFIX,eelfadechi.com,🛑 全球拦截
   - IP-CIDR,49.208.0.0/14,🌏 国内媒体
@@ -64160,7 +64160,7 @@ rules:
   - DOMAIN-SUFFIX,qo4nkz03dy.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,links.glamsquad.com,🛑 全球拦截
   - DOMAIN-SUFFIX,eoahpbgsvsyfujy.xyz,🛑 全球拦截
-  - DOMAIN-SUFFIX,onedrive.live.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,onedrive.live.com,🌍 国外媒体
   - DOMAIN-SUFFIX,aswpsdkus.com,🛑 全球拦截
   - DOMAIN-SUFFIX,trmnsite.com,🛑 全球拦截
   - DOMAIN-SUFFIX,myprofile.panasonic.eu,🛑 全球拦截
@@ -67106,7 +67106,7 @@ rules:
   - DOMAIN-SUFFIX,yese115.com,🛑 全球拦截
   - DOMAIN-SUFFIX,kldmm.com,🛑 全球拦截
   - DOMAIN-SUFFIX,dashingdirt.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,onedrive.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,onedrive.com,🌍 国外媒体
   - DOMAIN-SUFFIX,ylwu7xm3a1wv.com,🛑 全球拦截
   - DOMAIN-SUFFIX,branch.pgatour-mail.com,🛑 全球拦截
   - DOMAIN-SUFFIX,plas.imfeld.dev,🛑 全球拦截
@@ -67931,7 +67931,7 @@ rules:
   - DOMAIN-SUFFIX,safesync.com,🛑 全球拦截
   - IP-CIDR,112.13.119.17/32,🎶 网易音乐
   - DOMAIN-SUFFIX,605296.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,sharepoint.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,sharepoint.com,🌍 国外媒体
   - DOMAIN-SUFFIX,my-hr.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,adtd.douglas.ch,🛑 全球拦截
   - DOMAIN-SUFFIX,tmfkuesmlpto.com,🛑 全球拦截
@@ -69025,7 +69025,7 @@ rules:
   - IP-CIDR,103.159.142.0/23,🌏 国内媒体
   - DOMAIN-SUFFIX,bptracking.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sdfer.xyz,🛑 全球拦截
-  - PROCESS-NAME,OneDriveUpdater,Ⓜ️ 微软云盘
+  - PROCESS-NAME,OneDriveUpdater,🌍 国外媒体
   - DOMAIN-SUFFIX,reople.co.kr,🛑 全球拦截
   - DOMAIN-SUFFIX,yzbqz.com,🛑 全球拦截
   - DOMAIN-SUFFIX,log.web.kugou.com,🛑 全球拦截
@@ -69700,7 +69700,7 @@ rules:
   - DOMAIN-SUFFIX,tracking.netvigie.com,🛑 全球拦截
   - DOMAIN-SUFFIX,topflownews.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hskj.net,🛑 全球拦截
-  - DOMAIN-SUFFIX,steamstat.us,🎮 国际游戏
+  - DOMAIN-SUFFIX,steamstat.us,🌍 国外媒体
   - IP-CIDR,203.33.204.0/24,🌏 国内媒体
   - DOMAIN-SUFFIX,larentisol.com,🛑 全球拦截
   - DOMAIN-SUFFIX,dm.riji.cn,🛑 全球拦截
@@ -71850,7 +71850,7 @@ rules:
   - DOMAIN-SUFFIX,gazati.com,🛑 全球拦截
   - DOMAIN-SUFFIX,null-point.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sy.ameblo.jp,🛑 全球拦截
-  - DOMAIN-SUFFIX,playstation.net,🎮 国际游戏
+  - DOMAIN-SUFFIX,playstation.net,🌍 国外媒体
   - IP-CIDR,115.48.0.0/12,🌏 国内媒体
   - DOMAIN-SUFFIX,accuzip.actonservice.com,🛑 全球拦截
   - DOMAIN-SUFFIX,offer-station.com,🛑 全球拦截
@@ -74139,7 +74139,7 @@ rules:
   - DOMAIN-SUFFIX,adsonar.com,🛑 全球拦截
   - DOMAIN-SUFFIX,vvyhhrjigq.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ozchinese.com,🔰 节点选择
-  - DOMAIN-SUFFIX,epicgames.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,epicgames.com,🌍 国外媒体
   - DOMAIN-SUFFIX,al.autohome.com.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,vloudsze.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tr.mail.floa.fr,🛑 全球拦截
@@ -75936,7 +75936,7 @@ rules:
   - DOMAIN-SUFFIX,qiyeb.iaskbus.com,🛑 全球拦截
   - DOMAIN-SUFFIX,besoes.com,🛑 全球拦截
   - DOMAIN-SUFFIX,track.eadv.it,🛑 全球拦截
-  - DOMAIN-SUFFIX,playartifact.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,playartifact.com,🌍 国外媒体
   - DOMAIN-SUFFIX,fast.com,🌍 国外媒体
   - DOMAIN-SUFFIX,visitweb.com,🛑 全球拦截
   - DOMAIN-SUFFIX,smetrics.freeplus-global.net,🛑 全球拦截
@@ -76213,7 +76213,7 @@ rules:
   - DOMAIN-SUFFIX,rolia.net,🔰 节点选择
   - IP-CIDR,45.123.136.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,qzzljx.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,playstation.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,playstation.com,🌍 国外媒体
   - DOMAIN-SUFFIX,isupopc.com,🛑 全球拦截
   - DOMAIN-SUFFIX,matchedule.club,🛑 全球拦截
   - DOMAIN-SUFFIX,doubanio.com,🎯 全球直连
@@ -76325,7 +76325,7 @@ rules:
   - IP-CIDR,43.254.8.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,happy-vpn.com,🔰 节点选择
   - DOMAIN-SUFFIX,tabyee.cn,🛑 全球拦截
-  - DOMAIN-KEYWORD,skydrive,Ⓜ️ 微软云盘
+  - DOMAIN-KEYWORD,skydrive,🌍 国外媒体
   - DOMAIN-SUFFIX,quannengshen.org,🔰 节点选择
   - DOMAIN-SUFFIX,tibetinfonet.net,🔰 节点选择
   - IP-CIDR,103.90.112.0/20,🌏 国内媒体
@@ -76421,7 +76421,7 @@ rules:
   - DOMAIN-SUFFIX,engine.laweekly.com,🛑 全球拦截
   - DOMAIN-SUFFIX,jyagyffnbysg.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mobads.baidu.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,humblebundle.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,humblebundle.com,🌍 国外媒体
   - DOMAIN-SUFFIX,adxite.com,🛑 全球拦截
   - DOMAIN-SUFFIX,czrkmjchnono.com,🛑 全球拦截
   - DOMAIN-SUFFIX,lamberserer.club,🛑 全球拦截
@@ -77130,7 +77130,7 @@ rules:
   - DOMAIN-SUFFIX,repetitiongeneticallypresidential.com,🛑 全球拦截
   - DOMAIN-SUFFIX,ddc.com.tw,🔰 节点选择
   - DOMAIN-KEYWORD,alicdn,🎯 全球直连
-  - DOMAIN-SUFFIX,steam-chat.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,steam-chat.com,🌍 国外媒体
   - IP-CIDR,1.12.64.0/18,🌏 国内媒体
   - DOMAIN-SUFFIX,info.cvosusa.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hkfuy.com,🛑 全球拦截
@@ -77601,7 +77601,7 @@ rules:
   - DOMAIN-SUFFIX,ssl.o.univadis.es,🛑 全球拦截
   - DOMAIN-SUFFIX,med.enablex.com,🛑 全球拦截
   - DOMAIN-SUFFIX,hash-hash-tag.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,storage.live.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,storage.live.com,🌍 国外媒体
   - IP-CIDR,162.62.0.0/16,🌏 国内媒体
   - IP-CIDR,211.155.120.0/21,🌏 国内媒体
   - DOMAIN-SUFFIX,exponderle.pro,🛑 全球拦截
@@ -78081,7 +78081,7 @@ rules:
   - DOMAIN-SUFFIX,collaboratedog.com,🛑 全球拦截
   - DOMAIN-SUFFIX,yegsrmqqpg.com,🛑 全球拦截
   - DOMAIN-SUFFIX,gdhyoa.cn,🛑 全球拦截
-  - DOMAIN-SUFFIX,storage.msn.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,storage.msn.com,🌍 国外媒体
   - DOMAIN-SUFFIX,android.com,🔰 节点选择
   - DOMAIN-SUFFIX,businessbells.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mybitsearch.com,🛑 全球拦截
@@ -79261,7 +79261,7 @@ rules:
   - DOMAIN-SUFFIX,znurmlkkeltsb.com,🛑 全球拦截
   - DOMAIN-SUFFIX,xyadtlyya.vip,🛑 全球拦截
   - DOMAIN-SUFFIX,wal.wolfram.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,valvesoftware.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,valvesoftware.com,🌍 国外媒体
   - DOMAIN-SUFFIX,06f09b1008ae993a5a.com,🛑 全球拦截
   - IP-CIDR,42.1.0.0/19,🌏 国内媒体
   - IP-CIDR,103.91.176.0/22,🌏 国内媒体
@@ -83144,7 +83144,7 @@ rules:
   - DOMAIN-SUFFIX,bilivideo.com,🌏 国内媒体
   - DOMAIN-SUFFIX,vnnv777.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,19035955.mktg.tajawal.com,🛑 全球拦截
-  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软云盘
+  - DOMAIN-KEYWORD,1drv,🌍 国外媒体
   - DOMAIN-SUFFIX,ad.zhangyue.com,🛑 全球拦截
   - DOMAIN-SUFFIX,dnfkong.com,🛑 全球拦截
   - DOMAIN-SUFFIX,blanketmemorize.com,🛑 全球拦截
@@ -83726,7 +83726,7 @@ rules:
   - IP-CIDR,113.58.0.0/16,🌏 国内媒体
   - DOMAIN-SUFFIX,sat.sanoma.fi,🛑 全球拦截
   - DOMAIN-SUFFIX,zixivily.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,sharepointonline.com,🌍 国外媒体
   - DOMAIN-SUFFIX,gtrd.xyz,🛑 全球拦截
   - IP-CIDR,45.114.52.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,stats.keyscore.me,🛑 全球拦截
@@ -84392,7 +84392,7 @@ rules:
   - DOMAIN-SUFFIX,guang1.zhakao.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,crkrjb.naturativ.pl,🛑 全球拦截
   - DOMAIN-SUFFIX,www.sugh8yami.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,steamstatic.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,steamstatic.com,🌍 国外媒体
   - DOMAIN-SUFFIX,app.3d.ultimaker.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mastertag.q-sis.de,🛑 全球拦截
   - DOMAIN-SUFFIX,smetrics.opensource.com,🛑 全球拦截
@@ -86278,7 +86278,7 @@ rules:
   - DOMAIN-SUFFIX,al-islam.com,🔰 节点选择
   - DOMAIN-SUFFIX,xtzxmy.com,🛑 全球拦截
   - DOMAIN-SUFFIX,lofe.shop,🛑 全球拦截
-  - DOMAIN-SUFFIX,paragon.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,paragon.com,🌍 国外媒体
   - DOMAIN-SUFFIX,arrnaught.com,🛑 全球拦截
   - DOMAIN-SUFFIX,google.com.nf,🔰 节点选择
   - DOMAIN-SUFFIX,icoco.com,🔰 节点选择
@@ -87961,7 +87961,7 @@ rules:
   - IP-CIDR,51.77.227.99/32,🛑 全球拦截
   - DOMAIN-SUFFIX,pages-stats.rbl.ms,🛑 全球拦截
   - DOMAIN-SUFFIX,dmqapp.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,steamcommunity.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,steamcommunity.com,🌍 国外媒体
   - DOMAIN-SUFFIX,profiling.martela.com,🛑 全球拦截
   - DOMAIN-SUFFIX,explore.agilent.com,🛑 全球拦截
   - IP-CIDR,203.80.129.0/24,🌏 国内媒体
@@ -88168,7 +88168,7 @@ rules:
   - DOMAIN-SUFFIX,dauntlessomelette.com,🛑 全球拦截
   - DOMAIN-SUFFIX,pixel.ionos.fr,🛑 全球拦截
   - DOMAIN-SUFFIX,l.support.canva.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,photos.live.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,photos.live.com,🌍 国外媒体
   - DOMAIN-SUFFIX,tr.lvmhappening.lvmh.fr,🛑 全球拦截
   - DOMAIN-SUFFIX,b2b5.net,🛑 全球拦截
   - DOMAIN-SUFFIX,handyfield.com,🛑 全球拦截
@@ -88682,7 +88682,7 @@ rules:
   - DOMAIN-SUFFIX,info.washingtoninstitute.org,🛑 全球拦截
   - DOMAIN-SUFFIX,xn--wxtr9fwyxk9c.xn--fiqs8s,🛑 全球拦截
   - DOMAIN-SUFFIX,res.programme-television.org,🛑 全球拦截
-  - DOMAIN-SUFFIX,sony.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,sony.com,🌍 国外媒体
   - DOMAIN-SUFFIX,satisfactoryviolin.com,🛑 全球拦截
   - DOMAIN-SUFFIX,rnldustal.com,🛑 全球拦截
   - DOMAIN-KEYWORD,omniture,🛑 全球拦截
@@ -88896,7 +88896,7 @@ rules:
   - DOMAIN-SUFFIX,nsideservie.space,🛑 全球拦截
   - DOMAIN-SUFFIX,hpd.baidu.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,kusocity.com,🔰 节点选择
-  - DOMAIN-SUFFIX,fanatical.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,fanatical.com,🌍 国外媒体
   - DOMAIN-SUFFIX,youtube.112.2o7.net,🛑 全球拦截
   - DOMAIN-SUFFIX,andyfanfan.xyz,🛑 全球拦截
   - DOMAIN-SUFFIX,bianxianwu.com,🛑 全球拦截
@@ -89711,7 +89711,7 @@ rules:
   - DOMAIN-SUFFIX,d2glav2919q4cw.cloudfront.net,🛑 全球拦截
   - DOMAIN-SUFFIX,discord.com,🔰 节点选择
   - DOMAIN-SUFFIX,utoyoufio.fun,🛑 全球拦截
-  - DOMAIN-SUFFIX,helpshift.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,helpshift.com,🌍 国外媒体
   - DOMAIN-SUFFIX,flaxseedssoenrh4372ojd.com,🛑 全球拦截
   - DOMAIN-SUFFIX,minzhuzhanxian.com,🔰 节点选择
   - DOMAIN-SUFFIX,hangoutairbags.com,🛑 全球拦截
@@ -91090,7 +91090,7 @@ rules:
   - IP-CIDR,103.62.160.0/19,🌏 国内媒体
   - DOMAIN-SUFFIX,pythonic.life,🔰 节点选择
   - DOMAIN-SUFFIX,as.mytoys.de,🛑 全球拦截
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🌍 国外媒体
   - IP-CIDR,203.57.246.0/23,🌏 国内媒体
   - DOMAIN-SUFFIX,zutodu.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,google.es,🔰 节点选择
@@ -93329,7 +93329,7 @@ rules:
   - DOMAIN-SUFFIX,mail.dolce-gusto.it,🛑 全球拦截
   - IP-CIDR,45.254.40.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,design.google,🔰 节点选择
-  - DOMAIN,steambroadcast.akamaized.net,🎮 国际游戏
+  - DOMAIN,steambroadcast.akamaized.net,🌍 国外媒体
   - IP-CIDR,203.33.79.0/24,🌏 国内媒体
   - DOMAIN-SUFFIX,examinerprospectsbutton.com,🛑 全球拦截
   - DOMAIN-SUFFIX,mychinese.news,🔰 节点选择
@@ -93844,7 +93844,7 @@ rules:
   - DOMAIN-SUFFIX,sq85.press,🛑 全球拦截
   - DOMAIN-SUFFIX,boudougu.com,🛑 全球拦截
   - DOMAIN-SUFFIX,tcss.qq.com,🛑 全球拦截
-  - DOMAIN,steampipe.akamaized.net,🎮 国际游戏
+  - DOMAIN,steampipe.akamaized.net,🌍 国外媒体
   - DOMAIN-SUFFIX,sstmlt.moe,🔰 节点选择
   - DOMAIN-SUFFIX,b18a21ab3c9cb53.com,🛑 全球拦截
   - DOMAIN-SUFFIX,d21rudljp9n1rr.cloudfront.net,🛑 全球拦截
@@ -98560,7 +98560,7 @@ rules:
   - DOMAIN-SUFFIX,feitianacademy.org,🔰 节点选择
   - DOMAIN-SUFFIX,saltinourhairtv.com,🛑 全球拦截
   - DOMAIN-SUFFIX,platform.iteratehq.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,playstationnetwork.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,playstationnetwork.com,🌍 国外媒体
   - DOMAIN-SUFFIX,smetrics.caribbeanjobs.com,🛑 全球拦截
   - DOMAIN-SUFFIX,madcpms.com,🛑 全球拦截
   - DOMAIN-SUFFIX,literatelight.com,🛑 全球拦截
@@ -99852,7 +99852,7 @@ rules:
   - DOMAIN-SUFFIX,catynydy.com,🛑 全球拦截
   - DOMAIN-SUFFIX,comilar-efferiff.icu,🛑 全球拦截
   - DOMAIN-SUFFIX,alreadygrippatsy.com,🛑 全球拦截
-  - PROCESS-NAME,OneDrive,Ⓜ️ 微软云盘
+  - PROCESS-NAME,OneDrive,🌍 国外媒体
   - DOMAIN-SUFFIX,letvstore.com,🌏 国内媒体
   - DOMAIN-SUFFIX,smetrics.totalwine.com,🛑 全球拦截
   - DOMAIN-SUFFIX,butalksuw9dj10.com,🛑 全球拦截
@@ -101366,7 +101366,7 @@ rules:
   - DOMAIN-SUFFIX,cashbigo.com,🛑 全球拦截
   - DOMAIN-SUFFIX,rj.m.taobao.com,🛑 全球拦截
   - DOMAIN-SUFFIX,wrap.tradedoubler.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,oneclient.sfx.ms,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,oneclient.sfx.ms,🌍 国外媒体
   - DOMAIN-SUFFIX,empornium.me,🎯 全球直连
   - DOMAIN-SUFFIX,govgaungzhou.cn,🛑 全球拦截
   - DOMAIN-SUFFIX,d.adlpo.com,🛑 全球拦截
@@ -102221,7 +102221,7 @@ rules:
   - DOMAIN-SUFFIX,stingygirlieaccompany.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sstats.ds-pharma.jp,🛑 全球拦截
   - DOMAIN-SUFFIX,clemencydifferenceslavishness.com,🛑 全球拦截
-  - DOMAIN,steamusercontent-a.akamaihd.net,🎮 国际游戏
+  - DOMAIN,steamusercontent-a.akamaihd.net,🌍 国外媒体
   - DOMAIN-SUFFIX,bestvpnanalysis.com,🔰 节点选择
   - DOMAIN-SUFFIX,tracking.fanbridge.com,🛑 全球拦截
   - DOMAIN-SUFFIX,srd.simba.taobao.com,🛑 全球拦截
@@ -103958,7 +103958,7 @@ rules:
   - DOMAIN-SUFFIX,itimoh.eslgaming.com,🛑 全球拦截
   - DOMAIN-SUFFIX,wapsisod.net,🛑 全球拦截
   - DOMAIN-SUFFIX,securite.01net.com,🛑 全球拦截
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com,Ⓜ️ 微软云盘
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com,🌍 国外媒体
   - IP-CIDR,202.92.48.0/20,🌏 国内媒体
   - DOMAIN-SUFFIX,xmstpay.com,🛑 全球拦截
   - DOMAIN-SUFFIX,xxkio.com,🛑 全球拦截
@@ -104080,7 +104080,7 @@ rules:
   - DOMAIN-SUFFIX,nukistream.com,🔰 节点选择
   - DOMAIN-SUFFIX,marxist.com,🔰 节点选择
   - DOMAIN-SUFFIX,union-wifi.com,🛑 全球拦截
-  - DOMAIN,steamcdn-a.akamaihd.net,🎮 国际游戏
+  - DOMAIN,steamcdn-a.akamaihd.net,🌍 国外媒体
   - IP-CIDR,103.88.212.0/22,🌏 国内媒体
   - DOMAIN-SUFFIX,zl588.com,🛑 全球拦截
   - DOMAIN-SUFFIX,dcs.esprit.be,🛑 全球拦截
@@ -105496,7 +105496,7 @@ rules:
   - IP-CIDR,203.208.43.0/24,🔰 节点选择
   - DOMAIN-SUFFIX,stats.matthogg.fyi,🛑 全球拦截
   - DOMAIN-SUFFIX,doubooca.com,🛑 全球拦截
-  - DOMAIN-KEYWORD,onedrive,Ⓜ️ 微软云盘
+  - DOMAIN-KEYWORD,onedrive,🌍 国外媒体
   - DOMAIN-SUFFIX,trk.networkcomputing.com,🛑 全球拦截
   - IP-CIDR,101.101.112.0/20,🌏 国内媒体
   - DOMAIN-SUFFIX,popwad.xyz,🛑 全球拦截
@@ -105750,7 +105750,7 @@ rules:
   - DOMAIN-SUFFIX,gagwithholdoutsider.com,🛑 全球拦截
   - DOMAIN-SUFFIX,jtbaoo.belvini.de,🛑 全球拦截
   - DOMAIN-SUFFIX,k54nw.pw,🛑 全球拦截
-  - DOMAIN-SUFFIX,unrealengine.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,unrealengine.com,🌍 国外媒体
   - DOMAIN-SUFFIX,easy-dating.org,🛑 全球拦截
   - DOMAIN-SUFFIX,xameleonads.com,🛑 全球拦截
   - DOMAIN-SUFFIX,metrics.thetrainline.com,🛑 全球拦截
@@ -107150,7 +107150,7 @@ rules:
   - DOMAIN-SUFFIX,metrics.genesis.es,🛑 全球拦截
   - DOMAIN-SUFFIX,app.gopsusports.com,🛑 全球拦截
   - IP-CIDR,103.59.128.0/22,🌏 国内媒体
-  - DOMAIN-SUFFIX,underlords.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,underlords.com,🌍 国外媒体
   - DOMAIN-SUFFIX,bemobtrk.com,🛑 全球拦截
   - DOMAIN-SUFFIX,saa.dyson.nl,🛑 全球拦截
   - IP-CIDR,115.238.76.0/22,🌏 国内媒体
@@ -107380,7 +107380,7 @@ rules:
   - DOMAIN-SUFFIX,ntvsw.com,🛑 全球拦截
   - DOMAIN-SUFFIX,sartagesampi.com,🛑 全球拦截
   - DOMAIN-SUFFIX,21pron.com,🔰 节点选择
-  - DOMAIN-SUFFIX,steampowered.com,🎮 国际游戏
+  - DOMAIN-SUFFIX,steampowered.com,🌍 国外媒体
   - DOMAIN-SUFFIX,xmxxwl.com,🛑 全球拦截
   - DOMAIN-SUFFIX,oneclient.sfx.ms,🔰 节点选择
   - IP-CIDR,103.150.164.0/23,🌏 国内媒体
